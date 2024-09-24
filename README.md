@@ -24,5 +24,3 @@ Python Libraries: Pandas for data manipulation, NumPy for numerical operations, 
 Data Handling: Techniques such as data cleaning, type conversion, and outlier detection were employed to ensure data quality.
 
 
-Future Enhancements:
-hash
